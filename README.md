@@ -1,4 +1,8 @@
-# This Repository was made for studying on Jun 19, 2022
+# This Repository was made for private needs
+
+for studying by Gwihwan-Go
+
+on Jun 19, 2022
 
 You can run this repository on colab.
 
